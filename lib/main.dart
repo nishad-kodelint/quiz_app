@@ -4,7 +4,5 @@ import 'package:sample_project/quiz.dart';
 
 
 void main(){
-  runApp(
-   Quiz()
-  );
+  runApp(const Quiz());
 }
